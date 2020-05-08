@@ -1,0 +1,84 @@
+---------
+Name: Daan
+Date: Fri May  8 09:38:28 CEST 2020
+Player won? TRUE
+Number of used guesses: 3
+ 
+---------
+Name: Daan
+Date: Fri May  8 09:38:40 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Daan
+Date: Fri May  8 09:38:50 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Daan
+Date: Fri May  8 09:38:59 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Daan
+Date: Fri May  8 09:39:05 CEST 2020
+Player won? TRUE
+Number of used guesses: 2
+ 
+---------
+Name: Daan
+Date: Fri May  8 09:39:20 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Daan
+Date: Fri May  8 09:39:27 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Daan
+Date: Fri May  8 09:39:34 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Daan
+Date: Fri May  8 09:39:42 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Daan
+Date: Fri May  8 09:39:55 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Daan
+Date: Fri May  8 09:40:01 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Daan
+Date: Fri May  8 09:40:10 CEST 2020
+Player won? TRUE
+Number of used guesses: 3
+ 
+---------
+Name: Daan
+Date: Fri May  8 09:40:16 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Daan
+Date: Fri May  8 09:40:19 CEST 2020
+Player won? TRUE
+Number of used guesses: 1
+ 
